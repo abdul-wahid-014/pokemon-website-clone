@@ -1,0 +1,224 @@
+#div1{
+    position: sticky;
+    top: 0px;
+    background-color: white;
+}
+#div1 ul{
+    list-style-type: none;
+    padding-left:210px ;
+}
+#div1 ul li{
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px auto;
+    width: 141px;
+    text-align: center;
+}
+#div1 ul li img{
+    display: block;
+    margin: auto;
+}
+#div1 ul li:nth-child(1){
+    color: white;
+    background-color: grey;
+}
+#div1 ul li:nth-child(2){
+    border-bottom: 9px solid red;
+}
+#div1 ul li:nth-child(3){
+    border-bottom: 9px solid orange;
+
+}
+#div1 ul li:nth-child(4){
+    border-bottom: 9px solid yellow;
+
+}
+#div1 ul li:nth-child(5){
+    border-bottom: 9px solid green;
+
+}
+#div1 ul li:nth-child(6){
+    border-bottom: 9px solid rgb(5, 104, 137);
+
+}
+#div1 ul li:nth-child(7){
+    border-bottom: 9px solid darkblue;
+
+}
+
+#div2{
+    margin: 30px auto 0px auto;
+    width: 1024px;
+    overflow: auto;
+}
+#div2 div{
+    display: inline-block;
+    float:left;
+    margin: 5px;
+}
+
+#div2 div:nth-child(1){
+    width: 580px;
+    height: 458px;
+    color: white; 
+    background-color: green;
+    font-size: medium;
+    text-align: center;   
+}
+#div2 div:nth-child(2){
+    width: 280px;
+    color: white; 
+    background-color: pink;
+    font-size: medium;
+    text-align: center;   
+}
+#div2 div:nth-child(3){
+    width: 113px;  
+    color: white; 
+    background-color: grey;
+    font-size: medium;
+    text-align: center;     
+}
+#div2 div:nth-child(4){
+    width: 280px;
+    color: white; 
+    background-color: lightblue;
+    font-size: medium;
+    text-align: center;      
+}
+#div2 div:nth-child(5){
+    width: 280px;
+    color: white; 
+    background-color: burlywood;
+    font-size: medium;
+    text-align: center;      
+}
+#div2 div:nth-child(6){
+    width: 280px;    
+    color: white; 
+    background-color: darkblue;
+    font-size: medium;
+    text-align: center;  
+}
+
+#div2 img{
+    border-radius: 9px;
+    width: 100%;
+}
+
+
+
+#div3{
+    margin: 60px auto 0 auto;
+    width: 1024px;
+}
+#div3 div{
+    display: inline-block;
+    margin: 5px;
+}
+
+#div3 div:nth-child(1){
+    width: 280px;
+    color: white; 
+    background-color: green;
+    font-size: medium;
+    text-align: center;   
+}
+#div3 div:nth-child(2){
+    width: 280px;
+    color: white; 
+    background-color: pink;
+    font-size: medium;
+    text-align: center;   
+}
+#div3 div:nth-child(3){
+    width: 280px;  
+    color: white; 
+    background-color: grey;
+    font-size: medium;
+    text-align: center;     
+}
+#div3 div:nth-child(4){
+    width: 280px;
+    color: white; 
+    background-color: lightblue;
+    font-size: medium;
+    text-align: center;      
+}
+#div3 div:nth-child(5){
+    padding: 0px;
+    margin: 0px;
+}
+#div3 div:nth-child(6){
+    width: 280px;
+    color: white; 
+    background-color: burlywood;
+    font-size: medium;
+    text-align: center;
+}
+#div3 div:nth-child(7){
+    width: 280px;    
+    color: white; 
+    background-color: darkblue;
+    font-size: medium;
+    text-align: center;  
+}
+#div3 div:nth-child(8){
+    width: 280px;    
+    font-size: medium;
+    text-align: center;  
+    margin: 0px;
+}
+#div3 div:nth-child(8) h3{
+    color: white; 
+    background-color: orange;
+    margin: 0px;
+    padding: 20px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+
+}
+#div3 div:nth-child(8) p{
+    background-color: blue;
+    margin: 0px;
+    padding: 20px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+
+}
+
+
+#div3 img{
+    border-radius: 9px;
+    width: 100%;
+}
+
+#div4{
+    margin-top: 30px;
+    background-color: rgb(18, 17, 17);
+    color: wheat;
+}
+#div4 div{
+    width: 32%;
+    display: inline-block;
+}
+
+#div4 div:nth-child(1){
+    border-right: 2px solid white;
+    padding-right:10px;
+    position: relative;
+    top: -73px;
+}
+
+#div4 div #logo{
+    padding-right:10px ;
+    position: relative;
+    top: -183px;
+    left: 84px;
+}
+
+
+#div4 div:nth-child(3){
+    border-left: 2px solid white;
+    padding-left:10px ;
+}
